@@ -42,6 +42,11 @@
 - Compared and optimized segmentation models, including MobileNet-DeepLab, SegNet, U-Net, and Fast-SCNN, to evaluate their compatibility with DSP preprocessing for applications in self-driving car environments.
 - Streamlined segmentation pipelines using a hybrid approach, improving the robustness of vision systems for self-driving cars through detailed evaluation on the CamVid dataset under diverse environmental conditions.
 
+### Emotion and Demographic Detection for Human-Robot Collaboration 
+- Developed an integrated system for facial analysis, combining emotion recognition and demographic classification (age and gender) to enhance human-robot interaction capabilities in real-time scenarios.
+- Improved model accuracy and generalization by implementing advanced data augmentation, transfer learning (ResNet50), and dual-output CNN architectures, optimizing predictions for age, gender, and emotions.
+- Addressed class imbalance and real-world variability using techniques like class weighting, balanced batch generation, and hyperparameter tuning, ensuring robustness and reliability in dynamic environments.
+
 ### MPC Control for Precise Arm Positioning (JetMax Robot)
 - Improved trajectory accuracy and system stability by designing and implementing Model Predictive Control (MPC) for the JetMax robot’s arm, optimizing movement for smooth and precise transitions between target positions.
 - Enhanced control system adaptability by integrating real-time sensor feedback and dynamic modeling, enabling precise positioning under varying load and environmental conditions.
