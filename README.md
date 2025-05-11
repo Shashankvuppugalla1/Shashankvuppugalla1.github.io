@@ -8,10 +8,15 @@
 - BTech.,  Mechanical Engineering | Mahindra University (_August 2023_)
 
 ### Work Experience
-**Data Science Intern @ Zigram (Jan 2023 - May 2023)**
-- Developed and implemented Sentiment Analysis modules using sophisticated Sentence Transformers and ensemble techniques, enabling advanced text classification and insights extraction.
-- Optimized Named Entity Recognition (NER) pipelines by integrating tools such as transformers, flare, and spacy, improving entity extraction accuracy and efficiency.
-- Leveraged cutting-edge Sentence Embedding techniques to evaluate and analyze model performance, driving data-driven improvements validated through extensive testing.
+**Design Engineer Intern @ Benda Infotech (May 2024 - Nov 2024)**
+- Engineered robotic gripper systems for CNC-integrated automation, improving part-handling efficiency by 25% through precise mechanical design and actuation.
+- Developed and simulated robot work cells in Gazebo and executed motion planning using ROS2 + MoveIt to optimize trajectories and avoid collisions.
+- Programmed embedded logic using Arduino and STM32, integrating sensors and actuators to enable closed-loop robotic control for industrial automation.
+
+**Product Design Intern @ Zigram (Jan 2023 - May 2023)**
+- Contributed to the development of Semantic Sifting, integrating NLP-based modules with robotic subsystems for real-time semantic information retrieval.
+- Developed RESTful APIs using FastAPI and built robust data pipelines using Pandas, NumPy, and SQL to streamline model-to-interface data flow.
+- Fine-tuned few-shot learning models (SetFit, transformers) for classification tasks, enhancing the interpretability and responsiveness of autonomous systems.
 
 **Industrial Automation Intern @ IIT Delhi (Jul 2022 - Aug 2022)**
 - Streamlined data acquisition and analysis by integrating an SQL database to collect, store, and retrieve real-time data, enabling seamless interaction between the printer and the dashboard.
