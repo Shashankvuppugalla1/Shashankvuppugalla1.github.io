@@ -63,5 +63,5 @@
 - Streamlined control system operations through the implementation of Industry 4.0 practices, integrating a Firebase-powered backend for real-time data acquisition and a Unity-based visualization framework for enhanced operator control and decision-making.
 
 ## Publications
-1. Shashank Vuppugalla, et al. (2023). Development of A Smart Interfacing Dashboard Between Management and Shop-Floor for Industry 3.0 Machines and Small and Medium Enterprises (SME). In IEEE International Conference on Mechatronics and Automation, 06-09 August 2023, Harbin, Heilongjiang, China. DOI: 10.1109/ICMA57826.2023.10216233
-2. Shashank Vuppugalla, et al. (2023).Developing Digital Twin for Transforming CNC Machine to Industry 4.0 for Remote Monitoring. In IEEE International Conference on Mechatronics and Automation, 06-09 August 2023, Harbin, Heilongjiang, China. DOI: 10.1109/ICMA57826.2023.10215952
+1. Shashank Vuppugalla, et al. (2023). Development of A Smart Interfacing Dashboard Between Management and Shop-Floor for Industry 3.0 Machines and Small and Medium Enterprises (SME). In IEEE International Conference on Mechatronics and Automation, 06-09 August 2023, Harbin, Heilongjiang, China. Link: https://ieeexplore.ieee.org/document/10216233
+2. Shashank Vuppugalla, et al. (2023).Developing Digital Twin for Transforming CNC Machine to Industry 4.0 for Remote Monitoring. In IEEE International Conference on Mechatronics and Automation, 06-09 August 2023, Harbin, Heilongjiang, China. Link: https://ieeexplore.ieee.org/document/10215952
